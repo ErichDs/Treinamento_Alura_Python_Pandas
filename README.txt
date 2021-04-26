@@ -1,1 +1,1 @@
-Conteúdo do treinamento realizado na Alura, Python Pandas: Tratando e analisando dados.
+Conteúdo do treinamento realizado na Alura, Python p/ Data Science
